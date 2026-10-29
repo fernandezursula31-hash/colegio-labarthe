@@ -1,0 +1,6 @@
+{
+  "name": "Feria del Taller de Producción - Colegio Labarthe",
+  "description": "Exhibición visual y catálogo de proyectos de Ebanistería, Mecánica Automotriz, Electricidad, Construcción Civil y Repostería de los estudiantes del Colegio Labarthe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
